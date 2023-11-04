@@ -1,0 +1,8 @@
+D:\appBlazor\12\Nueva carpeta\ConsoleAppSQL\bin\Debug\ConsoleAppSQL.exe.config
+D:\appBlazor\12\Nueva carpeta\ConsoleAppSQL\bin\Debug\ConsoleAppSQL.exe
+D:\appBlazor\12\Nueva carpeta\ConsoleAppSQL\bin\Debug\ConsoleAppSQL.pdb
+D:\appBlazor\12\Nueva carpeta\ConsoleAppSQL\obj\Debug\ConsoleAppSQL.csproj.AssemblyReference.cache
+D:\appBlazor\12\Nueva carpeta\ConsoleAppSQL\obj\Debug\ConsoleAppSQL.csproj.SuggestedBindingRedirects.cache
+D:\appBlazor\12\Nueva carpeta\ConsoleAppSQL\obj\Debug\ConsoleAppSQL.csproj.CoreCompileInputs.cache
+D:\appBlazor\12\Nueva carpeta\ConsoleAppSQL\obj\Debug\ConsoleAppSQL.exe
+D:\appBlazor\12\Nueva carpeta\ConsoleAppSQL\obj\Debug\ConsoleAppSQL.pdb
